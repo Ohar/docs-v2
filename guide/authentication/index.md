@@ -5,9 +5,9 @@ title: Authentication
 There are several options for authenticating with the API. The basic choice boils
 down to:
 
-* Are you a plugin/theme running on the site? Use **cookie authentication**
+* Are you a plugin/theme running on the site? Use **[cookie authentication](#cookie-authentication)**
 * Are you a desktop/web/mobile client accessing the site externally? Use
-  **OAuth authentication**, **application passwords**, or **basic authentication**.
+  **[OAuth authentication](#oauth-authentication)**, **[application passwords](#application-passwords-or-basic-authentication)**, or **[basic authentication](#application-passwords-or-basic-authentication)**.
 
 
 Cookie Authentication
